@@ -1,0 +1,1 @@
+# support-app-icon-generator
